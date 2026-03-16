@@ -1,126 +1,136 @@
 <img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
-<h1 align="left">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>Saravanakumar</strong>
-</h1>
+<h1 align="center">Hi 👋 I'm <strong>Saravanakumar</strong></h1>
 
-<h3>Full Stack Developer | MERN • Python • AI Enthusiast</h3>
-
-<div align="left">
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
-
-<p>
-I'm a passionate developer who enjoys building intelligent and interactive web applications.  
-I love turning ideas into real-world projects using modern technologies like React, Node.js, and Python.
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-<a href="mailto:your-email@gmail.com">
-<img src="https://img.shields.io/badge/📧_your-email@gmail.com-1e1e2e?style=for-the-badge" />
-</a>
-<img src="https://img.shields.io/badge/🤝_Open_to_Collaboration-1e1e2e?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🚀_Building_AI_Projects-1e1e2e?style=for-the-badge" />
-</p>
-
-<h3>🌐 Socials</h3>
-
-<p align="left">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
-</a>
-
-<a href="https://instagram.com/YOUR_INSTAGRAM">
-<img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
-</a>
-
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue" alt="Profile Visit"/>
-
-</div>
-
-<br clear="all" />
-
-## 🛠️ Skills
+<h3 align="center">
+🚀 Full Stack Developer | AI Enthusiast | MERN Stack
+</h3>
 
 <p align="center">
 
-<table>
-
-<tr>
-
-<td width="50%" align="center">
-
-<h3>💻 Programming Languages</h3>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,c,typescript" />
-
-<br/><br/>
-
-</td>
-
-<td width="50%" align="center">
-
-<h3>📚 Frameworks & Libraries</h3>
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap,nextjs" />
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
-
-<h3>🗄️ Databases</h3>
-
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql" />
-
-<br/><br/>
-
-</td>
-
-<td width="50%" align="center">
-
-<h3>🧰 Tools & Platforms</h3>
-
-<img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman" />
-
-</td>
-
-</tr>
-
-</table>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Project+Builder;React+%7C+Node+%7C+Python;Building+Smart+Web+Applications"/>
 
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 👨‍💻 About Me
 
-<div align="center">
+💡 Passionate developer focused on building **AI-powered applications and modern web platforms**
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true" alt="Streak" />
-
-</div>
+* 🎓 Computer Science Student
+* 🤖 Currently building **AI Resume Simulator**
+* 🌐 Interested in **Full Stack Development & Artificial Intelligence**
+* 🚀 Love building real-world tech products
 
 ---
 
-## ❤️ Support Me
+# 🌐 Connect With Me
 
 <p align="center">
 
-<a href="#">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
+<a href="mailto:saravanakumarcoder.in@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
+<a href="https://www.linkedin.com/in/saravana-kumar-p-59a419338/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Saravanakumar-contact">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
+
+---
+
+# 🚀 Featured Project
+
+### 🤖 AI Resume Simulator
+
+AI-powered platform that:
+
+✔️ Analyzes resume
+✔️ Detects best job role
+✔️ Generates aptitude & technical interview questions
+✔️ Simulates interview experience
+✔️ Gives feedback for improvement
+
+**Tech Stack**
+
+React • Firebase • Firestore • AI APIs
+
+---
+
+# 🛠 Tech Stack
+
+### 💻 Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,c,typescript"/>
+
+</p>
+
+### ⚙️ Frameworks
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,tailwind,bootstrap"/>
+
+</p>
+
+### 🗄 Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql"/>
+
+</p>
+
+### 🧰 Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,vscode,figma,postman"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Saravanakumar-contact&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saravanakumar-contact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Saravanakumar-contact/Saravanakumar-contact/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# ⭐ Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Saravanakumar-contact&label=Profile%20views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+💡 I enjoy turning **ideas into AI-powered web applications.**
